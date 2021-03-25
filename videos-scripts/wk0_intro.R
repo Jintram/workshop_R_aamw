@@ -4,7 +4,7 @@ raw_data = read.table('/Users/m.wehrens/Data/_2019_10_Mouse_IR/data_Bas/HRMsham1
     row.names = 1, header=T)
 
 # Look at data
-View(mytable[1:10,1:10])
+View(raw_data[3000:3100,1:10])
 
 # total reads per cell
 reads_per_cell_raw = apply(raw_data, 2, sum)
@@ -22,7 +22,7 @@ read_count_table = raw_data[,reads_per_cell_raw>1000]
 reads_per_cell = apply(read_count_table, 2, sum)
 
 # normalize the table
-normalized_table = scale(mytable,center = F,scale=reads_per_cell)
+normalized_table = scale(read_count_table,center = F,scale=reads_per_cell)
 
 # Look at the expression of some marker genes
 gene_list = c('Des', 'Mybpc3', 'Myh6', 'Myh7', 'Tnnt2')
