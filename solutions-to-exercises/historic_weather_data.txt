@@ -1,0 +1,25 @@
+Time	Conditions	Temp (°C)	Weather	Wind	 	Humidity	Barometer	Visibility
+11:55	Partly sunny.	9 	Partly sunny.	32 km/h	↑	50%	1024 mbar	N/A
+11:25	Partly sunny.	8	Partly sunny.	32 km/h	↑	50%	1024 mbar	N/A
+10:55	Partly sunny.	8	Partly sunny.	30 km/h	↑	50%	1024 mbar	N/A
+10:25	Partly sunny.	8	Partly sunny.	28 km/h	↑	53%	1023 mbar	N/A
+09:55	Scattered clouds.	8	Scattered clouds.	32 km/h	↑	46%	1023 mbar	N/A
+09:25	Scattered clouds.	7	Scattered clouds.	30 km/h	↑	53%	1023 mbar	N/A
+08:55	Partly sunny.	7	Partly sunny.	20 km/h	↑	66%	1022 mbar	N/A
+08:25	Partly sunny.	7	Partly sunny.	24 km/h	↑	61%	1022 mbar	N/A
+07:55	Partly sunny.	7	Partly sunny.	32 km/h	↑	66%	1021 mbar	N/A
+07:25	Scattered clouds.	7	Scattered clouds.	32 km/h	↑	61%	1020 mbar	N/A
+06:55	Partly sunny.	8	Partly sunny.	28 km/h	↑	66%	1020 mbar	N/A
+06:25	Passing clouds.	8	Passing clouds.	30 km/h	↑	66%	1020 mbar	N/A
+05:55	Passing clouds.	8	Passing clouds.	22 km/h	↑	71%	1019 mbar	N/A
+05:25	Passing clouds.	8	Passing clouds.	28 km/h	↑	76%	1018 mbar	N/A
+04:55	Passing clouds.	9	Passing clouds.	33 km/h	↑	76%	1018 mbar	N/A
+04:25	Passing clouds.	8	Passing clouds.	28 km/h	↑	82%	1017 mbar	N/A
+03:55	Passing clouds.	9	Passing clouds.	28 km/h	↑	76%	1017 mbar	N/A
+03:25	Passing clouds.	9	Passing clouds.	32 km/h	↑	76%	1017 mbar	N/A
+02:55	Passing clouds.	10	Passing clouds.	22 km/h	↑	67%	1017 mbar	N/A
+02:25	Passing clouds.	10	Passing clouds.	20 km/h	↑	76%	1016 mbar	N/A
+01:55	Passing clouds.	10	Passing clouds.	20 km/h	↑	82%	1016 mbar	N/A
+01:25	Passing clouds.	10	Passing clouds.	24 km/h	↑	88%	1015 mbar	N/A
+00:55	Passing clouds.	11	Passing clouds.	26 km/h	↑	82%	1015 mbar	N/A
+00:25	Passing clouds.	11	Passing clouds.	20 km/h	↑	82%	1015 mbar	N/A
